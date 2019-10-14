@@ -11,9 +11,9 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ¿cuantas toneladas de desechos solidos produce el  gran Santo Domingo al año?
+* ¿cual es el patron que sigue  el volumen de  desechos solidos  en el Gran Santo Domingo  al año?
 
-* ¿Que relacion existe entre la densidad poblacio y la cantidad de residuos solidos recogidospor toneladas al año en el gran santo domingo¿
+* ¿Existe una relacion entre el volumen de produccop de sesechos solidos con las variables de densiad poblacional y el indice de hacinamiento en el Gran Santo Domingo?
 
-* ¿cual es la capacidad en toneladas  al año que puede recibir el vertedero de duquesa?
+* ¿Existe una relacion entre el indice de hacinamiento y el sistema de eliminacion  de los desechos,por personas y por hogares  en el Gran santo Domingo¿
 * ...
