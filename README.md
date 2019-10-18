@@ -13,7 +13,7 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos s
 
 * ¿cual es el patron que sigue  el volumen de  desechos solidos  en el Gran Santo Domingo  al año?
 
-* ¿Existe una relacion entre el volumen de produccop de sesechos solidos con las variables de densiad poblacional y el indice de hacinamiento en el Gran Santo Domingo?
+* ¿Existe una relacion entre el volumen de produccop de  desechos solid con las variables de densidad poblacional y el indice de hacinamiento en el Gran Santo Domingo?
 
 * ¿Existe una relacion entre el indice de hacinamiento y el sistema de eliminacion  de los desechos,por personas y por hogares  en el Gran santo Domingo¿
 * ...
